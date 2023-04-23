@@ -12,8 +12,8 @@ To run the Bank Transactions App locally, follow these steps:
 ### Features
 The Bank Transactions App provides the following features:
 
-**Search:** Users can search for transactions based on the transaction description. The app filters the transactions in real-time as the user types in the search bar.
-**Add Transaction:** Users can add new transactions to the app by filling out a transaction form. The app generates a unique ID for each transaction and updates the transaction list accordingly.
+**Search:** Users can search for transactions based on the transaction description. The app filters the transactions in real-time as the user types in the search bar.  
+**Add Transaction:** Users can add new transactions to the app by filling out a transaction form. The app generates a unique ID for each transaction and updates the transaction list accordingly.  
 **Display Transactions:** The app displays a list of transactions in a transaction list component. Each transaction is rendered as a transaction item with details such as the transaction description, amount, and date.
 ### Technology Stack
 The Bank Transactions App is built using the following technologies:
