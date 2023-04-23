@@ -21,7 +21,7 @@ The Bank Transactions App is built using the following technologies:
 React: A popular JavaScript library for building user interfaces.
 JavaScript: The programming language used for building the app.
 HTML/CSS: The standard markup language and style sheet language used for building web pages.
-You can view the live web page at: [Flatiron Bank](bank-of-flatiron-hioo-fptxcgixf-brianrono.vercel.app)
+You can view the live web page at: [Flatiron Bank](https://bank-of-flatiron-hioo-fptxcgixf-brianrono.vercel.app)
  
 ### Component Structure
 The Bank Transactions App is structured into three main components:
